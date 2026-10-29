@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: two-facing-men-on-gold-with-central-tan-band
+title: Two men conversing across a tan bar on gold
+description: Two half-length men face each other across a vertical tan bar with a darker stripe, on a burnished gold ground cut along the letter strokes. At the left a man in a tan robe and flat red cap gestures with both hands raised; at the right a man in an orange-red mantle over a dark blue robe looks up at him with a hand on his chest. Both have brown curls and short beards. Opaque on the gold, transparent outside its irregular edge.
+type: illustration
+categories:
+  - humans
+subjects:
+  - man
+  - robe
+  - cap
+  - beard
+colors:
+  - gold
+  - blue
+  - tan
+  - orange
+  - red
+facing: mixed
+view: three-quarter
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-53/left-tan-robed-man-visible-half-figure
+    role: variant
+  - asset: cma-2011-53/right-blue-red-robed-man-visible-half-figure
+    role: variant
+usage_notes:
+  - Place it as a picture with its own gold ground; the two figures are cut out separately as left-tan-robed-man-visible-half-figure and right-blue-red-robed-man-visible-half-figure.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The gold ground is crazed and worn as on the leaf and its edge follows the letter strokes, so the outline is irregular.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book"
+  object_identifier: "2011.53"
+  date: c. 1230–40
+  artist: William de Brailes (English, active c. 1230)
+  record_url: https://clevelandart.org/art/2011.53
+  image_url: https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2
+license: null

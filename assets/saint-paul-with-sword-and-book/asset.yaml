@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: saint-paul-with-sword-and-book
+title: Saint Paul with sword and book on gold
+description: The oval counter of the initial P. Saint Paul to the waist, bald with brown hair at the sides and a pointed beard, head turned up to the right, in a tan tunic under a dark blue mantle, a large blue sword over his left shoulder and a closed brown book with pink edges in his left hand, a blue arc for the halo. He fills a burnished gold ground that is crazed and worn, cut along the letter strokes to a rough oval with a flat base. Opaque inside the oval, transparent outside.
+type: illustration
+categories:
+  - humans
+  - reading
+subjects:
+  - apostle
+  - man
+  - sword
+  - book
+  - halo
+  - beard
+  - robe
+colors:
+  - gold
+  - blue
+  - tan
+  - brown
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-53/saint-paul-visible-bust-with-sword-and-book
+    role: variant
+usage_notes:
+  - Place it as a picture with its own gold ground; the figure alone is saint-paul-visible-bust-with-sword-and-book.
+display_width:
+  - 150
+  - 440
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The gold ground is crazed and worn as on the leaf and its edge follows the letter strokes, so the oval is irregular.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book"
+  object_identifier: "2011.53"
+  date: c. 1230–40
+  artist: William de Brailes (English, active c. 1230)
+  record_url: https://clevelandart.org/art/2011.53
+  image_url: https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2
+license: null

@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: blue-clad-man-pulling-ornamental-stem
+title: Man in blue tunic hauling on a stem overhead
+description: A full-length man in a blue tunic and a white coif, with orange hose and shoes, bends sideways with his head tilted to the right and his left hand on his hip while his right arm reaches over his head to grip a stem; only a small cream stub of the stem remains above his hand. Black outlines, pale pink face with red cheeks, white highlights on the folds. Cut from the foliate extension of the initial P; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - man
+  - hood
+  - robe
+  - drollery
+colors:
+  - blue
+  - orange
+  - white
+  - black
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The raised arm ends in a short stub of the stem it pulled on; hang the figure from a vine or border end to make sense of the pose.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the stem the figure held is cut off just above the hand.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book"
+  object_identifier: "2011.53"
+  date: c. 1230–40
+  artist: William de Brailes (English, active c. 1230)
+  record_url: https://clevelandart.org/art/2011.53
+  image_url: https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2
+license: null

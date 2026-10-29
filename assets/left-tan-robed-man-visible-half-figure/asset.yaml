@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: left-tan-robed-man-visible-half-figure
+title: Half-length man in tan robe gesturing right
+description: A half-length man in a tan robe and a flat red cap, turned to the right, holding both hands up before him with the index fingers raised in speech. Brown curls, a short beard and a pale face outlined in black. The figure ends at the thighs where the gold ground of the initial stopped. Cut from the left half of the two-figure scene; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - man
+  - cap
+  - robe
+  - beard
+colors:
+  - tan
+  - red
+  - cream
+  - brown
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-53/two-facing-men-on-gold-with-central-tan-band
+    role: variant
+  - asset: cma-2011-53/right-blue-red-robed-man-visible-half-figure
+    role: companion
+usage_notes:
+  - Pairs with right-blue-red-robed-man-visible-half-figure at the same scale, facing each other as in two-facing-men-on-gold-with-central-tan-band; the body ends at the thighs, so stand it behind a band or edge.
+display_width:
+  - 80
+  - 250
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the figure is truncated at the thighs as painted.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book"
+  object_identifier: "2011.53"
+  date: c. 1230–40
+  artist: William de Brailes (English, active c. 1230)
+  record_url: https://clevelandart.org/art/2011.53
+  image_url: https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2
+license: null
